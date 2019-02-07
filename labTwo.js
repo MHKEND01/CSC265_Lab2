@@ -1,5 +1,5 @@
 var snap = function()
 {
   var vict = document.getElementById("Vict");
-  vict.innerText =" XD :O XD :O";
+  vict.innerText =" (✖╭╮✖) (☉_☉) (✖╭╮✖) (☉_☉)";
 }
