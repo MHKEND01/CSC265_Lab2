@@ -1,7 +1,6 @@
-var snap = function()
+function snap()
 {
-  var snapButton = document.getElementById('button');
   var vict = document.getElementById("Vict");
   vict.innterText =" XD :O XD :O";
-  window.alert("Hi place")
+  window.alert("Hi place"):
 }
