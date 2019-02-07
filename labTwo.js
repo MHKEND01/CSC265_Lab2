@@ -1,4 +1,4 @@
-var snap = function()
+var snap() = function()
 {
   var snapButton = document.getElementById('button');
   var vict = document.getElementById("Vict");
