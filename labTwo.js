@@ -1,7 +1,5 @@
 var con = function()
 {
-  var speech = document.getElementById("speech")
-  var speechParent = parentNode.removeChild(speech)
   var before = document.createElement("img");
   before.src = "snap.jpg";
   var resetButton = getElementById("resetButton")
