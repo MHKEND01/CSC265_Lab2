@@ -1,9 +1,12 @@
 var con = function()
 {
-  removeElement("speech");
+  var speech = document.getElementById("speech")
+  removeElement(speech);
   var before = document.createElement("img");
   before.src = "snap.jpg";
+  var resetButton = getElementById("resetButton")
   resetButton.appendChild(before);
+  window.alert("hi")
 }
 
 
